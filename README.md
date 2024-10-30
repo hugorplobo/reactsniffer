@@ -5,7 +5,7 @@
 Use the package manager [npm](https://www.npmjs.com/) to install locally.
 
 ```bash
-npm install -g git+https://github.com/maykongsn/reactsniffer.git
+npm install -g git+https://github.com/hugorplobo/reactsniffer.git
 ```
 
 ## Usage
