@@ -6,7 +6,7 @@ export enum SmellType {
   MB = "Multiple Booleans For State",
   FU = "Force Update",
   DOM = "Direct DOM Manipulation",
-  JSX = "JSX Outside Render Method",
+  JSX = "JSX Outside The Render Method",
   UC = "Uncontrolled Component",
   PIS = "Props In Initial State",
   ANY = "Any Type",
