@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import * as path from "path";
 import { FilesProcessor } from "./src/files/filesProcessor";
 import { CSVWriter } from "./src/utils/csvWriter";
